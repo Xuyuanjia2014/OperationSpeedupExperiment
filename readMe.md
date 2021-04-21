@@ -1,5 +1,5 @@
 
-# Talos: Weighted Speedup-Aware Device Placement of Deep Learning Models
+# Talos: Weighted Speedup-Aware Device Placement of Deep Learning Models(科技资源及服务加载及放置优化构件)
 
 传统科技资源及服务启动需要时间较长，会严重影响服务版本的升级、回滚等正常运维时的正常服务时间，本构件可对科技资源服务中的典型深度学习服务，分析服务中算子在不同硬件上的运行时间，并给出放置决策。
 
