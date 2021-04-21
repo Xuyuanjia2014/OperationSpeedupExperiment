@@ -11,7 +11,7 @@ asap 21投稿中
 
 技术架构如图所示：
 
-![avatar](./implement.pdf)
+![framework](./sp.jpg)
 
 ## 技术特色
 
